@@ -1,0 +1,36 @@
+.content {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: white;
+}
+
+.side-image {
+    width: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.a {
+    color: orange !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+}
+
+
+.b {
+    color:  red !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+}
+
+
+.c {
+    color: rgb(179, 218, 38) !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+}
+
+
